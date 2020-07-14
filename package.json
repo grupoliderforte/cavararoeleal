@@ -1,0 +1,16 @@
+{
+  "name": "advs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.1",
+    "@popperjs/core": "^2.4.4",
+    "animate.css": "^4.1.0",
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "jquery-waypoints": "^2.0.5",
+    "jquery.easing": "^1.4.1",
+    "wowjs": "^1.1.3"
+  }
+}
